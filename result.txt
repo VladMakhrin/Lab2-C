@@ -1,0 +1,3 @@
+Minimum absolute value: 0
+Sum of absolute values after the first zero: 6149
+Transformed array: 0 7 0 -4 10 654 48 4848 9 7 -2 1 0 400 78 90 
